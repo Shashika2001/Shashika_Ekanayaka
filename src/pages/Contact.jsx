@@ -58,7 +58,7 @@ const Contact = () => {
       ),
       label: 'LinkedIn',
       value: 'Shashika Ekanayaka',
-      link: 'https://www.linkedin.com/in/shashika-ekanayaka'
+      link: 'https://www.linkedin.com/in/shashika-ekanayaka-828010286/'
     },
     {
       icon: (
@@ -68,7 +68,7 @@ const Contact = () => {
       ),
       label: 'GitHub',
       value: 'ShashikaEkanayaka',
-      link: 'https://github.com/ShashikaEkanayaka'
+      link: 'https://github.com/Shashika2001'
     }
   ];
 

@@ -13,7 +13,7 @@ const Projects = () => {
       description: 'Full-stack event management system for UCSC, enhancing student engagement with web and mobile applications.',
       tech: ['React', 'React Native', 'Spring Boot', 'PostgreSQL', 'Git'],
       github: 'https://github.com/ShashikaEkanayaka',
-      status: 'In Progress',
+      status: 'Completed',
       gradient: 'from-blue-500 to-cyan-500'
     },
     {

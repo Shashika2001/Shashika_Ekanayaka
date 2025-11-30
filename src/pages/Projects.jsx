@@ -12,7 +12,7 @@ const Projects = () => {
       period: '2025 Jul – Present',
       description: 'Full-stack event management system for UCSC, enhancing student engagement with web and mobile applications.',
       tech: ['React', 'React Native', 'Spring Boot', 'PostgreSQL', 'Git'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/udarapiumal/ReidConnect',
       status: 'Completed',
       gradient: 'from-blue-500 to-cyan-500'
     },
@@ -21,7 +21,7 @@ const Projects = () => {
       period: '2024 Jul – 2025 Mar',
       description: 'Modular ERP system for educational institutions using microservices architecture. Designed and implemented the Exam Management Module.',
       tech: ['Java', 'MySQL', 'Microservices', 'HTML', 'CSS', 'JavaScript'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/AdhyanaPiyasa/AdhyanaERP',
       status: 'Completed',
       gradient: 'from-purple-500 to-pink-500'
     },
@@ -30,7 +30,7 @@ const Projects = () => {
       period: '2024 Jun – 2024 Nov',
       description: 'Job finding and posting system connecting job seekers and employers with real-time chat and CV sharing features.',
       tech: ['React', 'Vite', 'Express', 'MongoDB', 'Tailwind CSS', 'Redux', 'Firebase'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/Shashika2001/Job-Listings',
       status: 'Completed',
       gradient: 'from-green-500 to-teal-500'
     },
@@ -39,7 +39,7 @@ const Projects = () => {
       period: '2024',
       description: 'Full-featured blogging platform with CRUD operations for posts and comments. Mobile-first responsive design.',
       tech: ['React', 'Redux', 'Node.js', 'Express', 'MongoDB', 'Tailwind CSS'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/Shashika2001/MERN-auth',
       status: 'Completed',
       gradient: 'from-orange-500 to-red-500'
     },
@@ -48,7 +48,7 @@ const Projects = () => {
       period: '2025',
       description: 'Cross-platform mobile app for restaurant ratings and reviews with secure authentication and analytics.',
       tech: ['React Native', 'Spring Boot', 'PostgreSQL', 'REST API'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/liki-ch/RatingApp',
       status: 'In Progress',
       gradient: 'from-indigo-500 to-purple-500'
     },
@@ -57,7 +57,7 @@ const Projects = () => {
       period: '2024',
       description: 'Practice project for building full-stack web applications using the MERN stack with modern tooling.',
       tech: ['React', 'Vite', 'Express', 'MongoDB', 'Tailwind CSS', 'Redux'],
-      github: 'https://github.com/ShashikaEkanayaka',
+      github: 'https://github.com/Shashika2001/mern-crash-course',
       status: 'Completed',
       gradient: 'from-yellow-500 to-orange-500'
     }

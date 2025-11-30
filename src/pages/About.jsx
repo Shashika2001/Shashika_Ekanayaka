@@ -84,7 +84,7 @@ const About = () => {
           </p>
           <p className="text-white/80 text-lg leading-relaxed">
             Recognized for a growth mindset, resilience, and the ability to inspire and collaborate 
-            effectively to achieve shared goals. Currently pursuing B.Sc. (Hons) in Computer Science 
+            effectively to achieve shared goals. Currently pursuing B.Sc. in Computer Science 
             at the University of Colombo School of Computing.
           </p>
         </motion.div>
